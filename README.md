@@ -39,16 +39,16 @@ This project follows a structured ML workflow:
 
 ## ⚙️ Model Architecture
 
-![Model](img\model.png)
+![Model](img/model.png)
 
 ## 📊 Training Process & Model Performance
 
-![First model](img\accuracy_1.png)
+![First model](img/accuracy_1.png)
 
-![First model](img\loss_1.png)
+![First model](img/loss_1.png)
 
-![Second model](img\accuracy_2.png)
+![Second model](img/accuracy_2.png)
 
-![Second model](img\loss_2.png)
+![Second model](img/loss_2.png)
 
-![Second model](img\learning_rate.png)
+![Second model](img/learning_rate.png)
